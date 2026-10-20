@@ -1,0 +1,20 @@
+{
+    "U15BH23S0001": {
+        "student_id": "U15BH23S0001",
+        "name": "Anu",
+        "age": 21,
+        "course": "BCA"
+    },
+    "U15BH23S0002": {
+        "student_id": "U15BH23S0002",
+        "name": "Aniket",
+        "age": 21,
+        "course": "BBA"
+    },
+    "U15BH23S0003": {
+        "student_id": "U15BH23S0003",
+        "name": "Ayushi",
+        "age": 21,
+        "course": "BCA"
+    }
+}
